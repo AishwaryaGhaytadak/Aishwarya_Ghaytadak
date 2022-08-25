@@ -1,5 +1,7 @@
 # Hi there, I'm Aishwarya👋 ! <img width="20%" height="20%" src="https://user-images.githubusercontent.com/69157648/186289341-afde6a99-4298-4843-9213-ea523d5f4aba.gif" /> </h1>
 <h3 align="center">I am Data Enthusiast, self-motivated and highly determined!.</h3>
+
+
 ## 🙋About me
 
 - 🎓 I’m currently pursuing Master's degree in Information Systems at Northeastern University.
@@ -32,11 +34,13 @@
     <a href="https://www.https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/jira.png"/> </a>
 </p>
 
+<br/>
+<br/>
 
 ## 📩 ** You can reach out to me **
 <p align="left">
 
----
 <a href = "https://www.linkedin.com/in/aishwaryaghaytadak/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 <a href = "mailto:ghaytadak.a@northeatern.edu"> <img src="https://img.icons8.com/fluency/48/undefined/email-open.png"/> </a>
+    
 </p>

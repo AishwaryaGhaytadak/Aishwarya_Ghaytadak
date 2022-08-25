@@ -1,4 +1,4 @@
-# Hi there, I'm Aishwarya👋 ! <img width="20%" height="20%" src="https://user-images.githubusercontent.com/69157648/186289341-afde6a99-4298-4843-9213-ea523d5f4aba.gif" /> </h1>
+# Hi there 👋 , I'm Aishwarya! <img width="20%" height="20%" src="https://user-images.githubusercontent.com/69157648/186289341-afde6a99-4298-4843-9213-ea523d5f4aba.gif" /> </h1>
 <h3 align="center">I am Data Enthusiast, self-motivated and highly determined!.</h3>
 
 
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-## 📩 ** You can reach out to me **
+## 📩 You can reach out to me
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aishwaryaghaytadak/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>

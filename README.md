@@ -31,7 +31,7 @@
     <a href="https://support.microsoft.com/en-us/excel" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/microsoft-excel-2019--v1.png"/> </a>  
     <a href="https://www.office.com" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/office-365.png"/> </a> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/microsoft-sharepoint-2019.png"/> </a> 
-    <a href="https://www.https://aws.amazon.com/" target="_blank"> <img src="https://icons8.com/icons/set/aws-logo.png"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://icons8.com/icons/set/aws"/> </a>
 </p>
 
 <br/>

@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Aishwarya!                   <img width="20%" height="20%" src="https://user-images.githubusercontent.com/69157648/186289341-afde6a99-4298-4843-9213-ea523d5f4aba.gif" /> </h1>
+<h1 align="center"> Hi there 👋 , I'm Aishwarya!            <img width="30%" height="30%" src="https://user-images.githubusercontent.com/69157648/186289341-afde6a99-4298-4843-9213-ea523d5f4aba.gif" /> </h1>
 <h3 align="center">I am Data Enthusiast, self-motivated and highly determined!.</h3>
 
 
@@ -31,7 +31,7 @@
     <a href="https://support.microsoft.com/en-us/excel" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/microsoft-excel-2019--v1.png"/> </a>  
     <a href="https://www.office.com" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/office-365.png"/> </a> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/microsoft-sharepoint-2019.png"/> </a> 
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://icons8.com/icons/set/aws"/> </a>
+   
 </p>
 
 <br/>
